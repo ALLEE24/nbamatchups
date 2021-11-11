@@ -1,6 +1,6 @@
 # nbamatchups
  
-Required packages: tensorflow, jupyterlab
+Required packages: tensorflow, jupyterlab, pandas
 
 ANN to select which of two NBA players is better, based on selected data from basketballreference.com.
 Trained using data from the 2020-2021 NBA season.
